@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\221\\students\\ispp55\\PractWork4\\PractLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08AA3379-7FC5-460C-9E1E-62A6E682750D}|PractLibrary\\PractLibrary.csproj|c:\\users\\221\\students\\ispp55\\practwork4\\practlibrary\\practlibrary\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08AA3379-7FC5-460C-9E1E-62A6E682750D}|PractLibrary\\PractLibrary.csproj|solutionrelative:practlibrary\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08AA3379-7FC5-460C-9E1E-62A6E682750D}|PractLibrary\\PractLibrary.csproj|c:\\users\\221\\students\\ispp55\\practwork4\\practlibrary\\practlibrary\\notificationfilteroptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08AA3379-7FC5-460C-9E1E-62A6E682750D}|PractLibrary\\PractLibrary.csproj|solutionrelative:practlibrary\\notificationfilteroptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08AA3379-7FC5-460C-9E1E-62A6E682750D}|PractLibrary\\PractLibrary.csproj|c:\\users\\221\\students\\ispp55\\practwork4\\practlibrary\\practlibrary\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08AA3379-7FC5-460C-9E1E-62A6E682750D}|PractLibrary\\PractLibrary.csproj|solutionrelative:practlibrary\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\221\\students\\ispp55\\PractWork4\\PractLibrary\\PractLibrary\\NotificationService.cs",
+              "RelativeDocumentMoniker": "PractLibrary\\NotificationService.cs",
+              "ToolTip": "C:\\Users\\221\\students\\ispp55\\PractWork4\\PractLibrary\\PractLibrary\\NotificationService.cs",
+              "RelativeToolTip": "PractLibrary\\NotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T11:49:14.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NotificationFilterOptions.cs",
+              "DocumentMoniker": "C:\\Users\\221\\students\\ispp55\\PractWork4\\PractLibrary\\PractLibrary\\NotificationFilterOptions.cs",
+              "RelativeDocumentMoniker": "PractLibrary\\NotificationFilterOptions.cs",
+              "ToolTip": "C:\\Users\\221\\students\\ispp55\\PractWork4\\PractLibrary\\PractLibrary\\NotificationFilterOptions.cs",
+              "RelativeToolTip": "PractLibrary\\NotificationFilterOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T11:49:05.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Users\\221\\students\\ispp55\\PractWork4\\PractLibrary\\PractLibrary\\Notification.cs",
+              "RelativeDocumentMoniker": "PractLibrary\\Notification.cs",
+              "ToolTip": "C:\\Users\\221\\students\\ispp55\\PractWork4\\PractLibrary\\PractLibrary\\Notification.cs",
+              "RelativeToolTip": "PractLibrary\\Notification.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBoAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T11:46:29.513Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
